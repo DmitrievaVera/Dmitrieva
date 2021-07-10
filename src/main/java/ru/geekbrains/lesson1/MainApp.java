@@ -33,6 +33,7 @@ public class MainApp {
         }
 
     }
+
     public static void printColor() {
         int value = 25;
         if (value <= 0) {
@@ -44,7 +45,7 @@ public class MainApp {
         }
     }
 
-public static void compareNumbers() {
+    public static void compareNumbers() {
         int a = 0;
         int b = 2;
         if (a >= b) {
