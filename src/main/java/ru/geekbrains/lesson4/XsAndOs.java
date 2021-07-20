@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class XsAndOs {
     static char[][] map;
-    static final int SIZE = 3;
+    static final int SIZE = 7;
     static final int DOTS_TO_WIN = 3;
 
     static final char DOT_EMPTY = '.';
